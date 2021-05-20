@@ -1,0 +1,29 @@
+{
+  "_id": "World 4",
+  "numberJellyBeans": 23,
+  "JellyBeanSpawnRateMS": 200,
+  "jellyBeanSpawnY": 650,
+  "jellyBeanRestitution": 0.7,
+  "jellyBeanFrictionAir": 0.15,
+  "jellyBeanFriction": 0,
+  "gravityY": -1,
+  "renderOptions": {
+    "width": 600,
+    "height": 600,
+    "wireframes": false
+  },
+  "mouseConstraint": {
+    "stiffness": 0.2,
+    "render": {
+      "visible": false
+    }
+  },
+  "jellyBeanColors": [
+    "#f19648",
+    "#f5d259",
+    "#f55a3c",
+    "#063e7b",
+    "#ececd1"
+  ],
+  "bodies": []
+}

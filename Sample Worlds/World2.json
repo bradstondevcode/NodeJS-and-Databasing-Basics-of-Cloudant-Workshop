@@ -1,0 +1,69 @@
+{
+  "_id": "World 2",
+  "numberJellyBeans": 150,
+  "JellyBeanSpawnRateMS": 250,
+  "jellyBeanSpawnY": -50,
+  "jellyBeanRestitution": 0.7,
+  "jellyBeanFrictionAir": 0.05,
+  "jellyBeanFriction": 0,
+  "gravityY": 1,
+  "renderOptions": {
+    "width": 600,
+    "height": 800,
+    "wireframes": false
+  },
+  "mouseConstraint": {
+    "stiffness": 0.2,
+    "render": {
+      "visible": false
+    }
+  },
+  "jellyBeanColors": [
+    "#f19648",
+    "#f5d259",
+    "#f55a3c",
+    "#063e7b",
+    "#ececd1"
+  ],
+  "bodies": [
+    {
+      "xPos": 200,
+      "yPos": 100,
+      "width": 700,
+      "height": 20,
+      "options": {
+        "isStatic": true,
+        "angle": 0.28849555921538755,
+        "render": {
+          "fillStyle": "#84827B"
+        }
+      }
+    },
+    {
+      "xPos": 500,
+      "yPos": 350,
+      "width": 700,
+      "height": 20,
+      "options": {
+        "isStatic": true,
+        "angle": -0.28849555921538755,
+        "render": {
+          "fillStyle": "#84827B"
+        }
+      }
+    },
+    {
+      "xPos": 280,
+      "yPos": 620,
+      "width": 620,
+      "height": 20,
+      "options": {
+        "isStatic": true,
+        "angle": 0.22566370614359174,
+        "render": {
+          "fillStyle": "#84827B"
+        }
+      }
+    }
+  ]
+}
