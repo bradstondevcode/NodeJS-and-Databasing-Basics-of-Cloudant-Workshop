@@ -8,7 +8,7 @@ At the end of the workshop, participants will have learned the "Needs-to-Know" a
 
 ## 🔥 Important Workshop First Steps 🔥
 
-- ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfqCq)
+- ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfyhA)
 - ✅ Download/Clone ReactJS Workshop Starter Code: [Jellybean World React Github](https://github.com/bradstondevcode/jelly-bean-world-starter-code)
 - ✅ Download/Clone Node.js Workshop Starter Code: [Jellybean World Node Github](https://github.com/bradstondevcode/jelly-bean-world-node-api)
 
@@ -20,7 +20,7 @@ This helps me to know how I can improve and make future workshops EVEN better!
 
 Thanks in Advance!
 
-[Short Post-Workshop Survey](https://ibm.biz/BdfqCf)
+[Short Post-Workshop Survey](https://ibm.biz/Bdfyhu)
 
 ### Resources in Repo
 
